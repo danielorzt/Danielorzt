@@ -1,4 +1,8 @@
 <h1 align="center">👨‍💻 Daniel Esteban Ortiz Pinzón 🚀</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a88c34a-cbcc-4008-b6d6-1f46b60e01fd" width="800">
+</p>
+
 
 <p align="center">
   <strong>Estudiante de Desarrollo de Software | Apasionado por la Tecnología</strong>

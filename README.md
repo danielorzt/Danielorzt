@@ -125,8 +125,12 @@
 
 <div align="center">
 
-### 🐍 Snake (Commits Animation)
-<img src="https://github.com/danielorzt/danielorzt/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+### 🐍 Snake 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielorzt/Danielorzt/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielorzt/Danielorzt/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/danielorzt/Danielorzt/output/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
